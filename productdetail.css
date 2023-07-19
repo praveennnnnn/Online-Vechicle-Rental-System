@@ -1,0 +1,36 @@
+body{
+	background:radial-gradient(#ffff,#80ffff);
+}
+.col2 img{
+	height: 400px;
+	width: 80%;
+	
+}
+
+.col2 p{
+	justify-content: center;
+}
+.col2 h4{
+	margin-left: 50px;
+}
+
+.btn{
+     
+     font-size: 15px;
+     font-weight: 900px;
+
+}
+
+.col2 .fa-whatsapp{
+	 color: green;
+	 font-size: 23px;
+}
+
+.col2 .fa-indent{
+	color: #ff1a1a;
+	margin-left: 10px;
+}
+
+
+
+
